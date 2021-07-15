@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The processing of introducing new features on a company's website is to ensure improved performance and increased profit. However, such development may not perform as expected, then may eventually hurt your business.
+The process of introducing new features on a company's website is to ensure improved performance and increased profit. However, such development may not perform as expected, then may eventually hurt your business.
 
 A/B testing, also known as split testing, refers to an experiment technique to determine whether a new design brings improvement, according to a chosen metric.
 
